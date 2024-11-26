@@ -14,10 +14,6 @@ A responsive web application to test and improve your typing speed. This project
 - **User-Friendly Interface**: Clean and responsive design for better user experience.
 - **Timer Functionality**: Provides a 60-second test duration for a focused typing challenge.
 
-## Live Demo
-
-(*Add a link to your deployed project or a screenshot of the app.*)
-
 ## Installation
 
 1. Clone this repository:
