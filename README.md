@@ -1,7 +1,5 @@
 # typing_speed_test
 
-Here’s a customized README for your GitHub project:
-
 ```markdown
 # Typing Speed Test
 
